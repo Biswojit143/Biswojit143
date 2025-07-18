@@ -5,7 +5,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/Biswojit143">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=MERN+Stack+Learner;Java+Developer;Frontend+Focused;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=MERN+Stack+Learner;Frontend+Focused;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Biswojit143&theme=radical&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Biswojit143&theme=radical&show_icons=true" width="48%" /> <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biswojit143&theme=radical" width="48%" />
 </p>
 
