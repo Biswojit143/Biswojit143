@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Biswojit Sahoo</h1>
-<h3 align="center">Aspiring Full-Stack Developer | MERN Stack Enthusiast | Java Programmer</h3>
+<h3 align="center">Aspiring Full-Stack Developer | MERN Stack Enthusiast </h3>
 
 <!-- Typing Animation -->
 <p align="center">
