@@ -46,7 +46,7 @@
 ## 🔥 Recent GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Biswojit143&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswojit143&theme=tokyo-night" />
 </p>
 
 
