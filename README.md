@@ -1,48 +1,67 @@
-<h1 align="center">👋 Hi there, I'm Biswojit!</h1>
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Biswojit Sahoo</h1>
+<h3 align="center">Aspiring Full-Stack Developer | MERN Stack Enthusiast | Java Programmer</h3>
 
+<!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/Biswojit143">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+MERN+Stack+Developer;Learning+Java,+HTML,+CSS,+JS;Building+real-world+web+apps;&center=true&width=500&height=45" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=MERN+Stack+Learner;Java+Developer;Frontend+Focused;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+<!-- About Section -->
+## 🧑‍💻 About Me
 
-- 🎓 MCA Student | Full-Stack Web Developer
-- 🌱 Currently learning: **MERN Stack**, **Java**, **Responsive UI**
-- 👨‍💻 Focused on: **Frontend + Backend Projects**
-- 💬 Ask me about: HTML, CSS, JavaScript, Java, Git
-- 📫 Reach me at: [biswojitsahoo2003@gmail.com](mailto:biswojitsahoo2003@gmail.com)
+- 🔭 I’m currently working on **responsive web projects**
+- 🌱 I’m learning **MERN Stack**, and **Advanced Frontend**
+- 💬 Ask me about **HTML/CSS**,**React**, **JavaScript**, or **Git**
+- 📫 How to reach me: `biswojitsahoo2003@gmail.com`
+- ⚡ Fun fact: I love cloning real websites like Apple & Netflix!
 
 ---
 
-## 🧰 Tech Stack
+<!-- Skills -->
+## 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,mongodb,git,github,vscode&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,react,nodejs,express,mongodb,git,github,vscode,bootstrap" />
 </p>
 
 ---
 
+<!-- GitHub Stats -->
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Biswojit143&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biswojit143&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Biswojit143&theme=radical&show_icons=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biswojit143&theme=radical" width="48%" />
 </p>
 
 ---
 
-## 🔗 Let's Connect
+<!-- GitHub Activity -->
+## 🔥 Recent GitHub Activity
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](#)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&style=for-the-badge)](#)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&style=for-the-badge)](mailto:biswojitsahoo2003@gmail.com)
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Biswojit143&theme=github-compact" />
+</p>
 
 ---
 
-## 📊 Visitor Count
+<!-- Connect -->
+## 🤝 Connect with Me
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Biswojit143&color=blue&style=flat-square)
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&style=for-the-badge" /></a>
+  <a href="mailto:biswojitsahoo2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge" /></a>
+</p>
+
+---
+
+<!-- Visitors -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Biswojit143&label=Profile+views&color=0e75b6&style=flat" alt="Biswojit143" />
+</p>
