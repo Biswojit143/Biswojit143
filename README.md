@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi there, I'm Biswojit!
 
 <!--
-**Biswojit143/Biswojit143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Welcome to my GitHub profile! I’m passionate about web development, Java programming, and building creative digital solutions.
+
+## 🚀 About Me
+
+- 🌱 I’m currently learning **Java**, **Web Technologies**, and **Front-End Development**
+- 🔭 I’m currently working on: a responsive shopping cart using **HTML/CSS/JavaScript**
+- 🤝 I’m looking to collaborate on **open-source front-end projects**
+- 💬 Ask me about: Java, HTML/CSS, Git, and modern UI design
+- 📫 How to reach me: [LinkedIn](#) | [Email](#)
+- ⚡ Fun fact: I love designing websites inspired by Apple!
+
+## 🧰 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode&theme=dark" alt="Tech Stack" />
+
+## 📈 GitHub Stats
+
+![Biswojit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biswojit143&show_icons=true&theme=tokyonight)
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](#)
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&style=flat-square)](#)
+
 -->
