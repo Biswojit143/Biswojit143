@@ -58,7 +58,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/biswojit-sahoo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&style=for-the-badge" /></a>
-  <a href="mailto:biswojitsahoo42@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge" /></a>
+  <a href="mailto:biswojitsahoo42@gmail.com"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=biswojitsahoo42@gmail.com&su=Hello%20from%20My%20Website" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge" /></a>
 </p>
 
 ---
