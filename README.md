@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Aspiring Full-Stack Developer | MERN Stack Enthusiast
+   Aspiring Full-Stack Developer | MERN Stack Enthusiast
 </h3>
 
 <p align="center">
@@ -18,9 +18,9 @@
 ---
 
 <!-- ================= ABOUT ================= -->
-## 🧑‍💻 About Me
+##  About Me
 
-🚀 Passionate **Full-Stack Web Developer** focused on building **modern, responsive, and high-performance web applications**.
+ Passionate **Full-Stack Web Developer** focused on building **modern, responsive, and high-performance web applications**.
 
 - Currently working on **real-world responsive web projects**
 - Learning **MERN Stack** & **Advanced Frontend Architecture**
@@ -28,7 +28,7 @@
 - Goal: Become a **Professional Full-Stack Engineer**
 - Fun fact: I love cloning **Apple & Netflix-style UIs**
 
-📫 **Email:** `biswojitsahoo2003@gmail.com`
+ **Email:** `biswojitsahoo2003@gmail.com`
 
 ---
 
@@ -42,7 +42,7 @@
 ---
 
 <!-- ================= FEATURED SKILLS ================= -->
-## 🚀 What I Do Best
+##  What I Do Best
 
 ✅ Responsive Web Design  
 ✅ Modern UI/UX Development  
@@ -61,9 +61,9 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Biswojit143&theme=radical&border_radius=10" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Biswojit143&theme=react-dark&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
