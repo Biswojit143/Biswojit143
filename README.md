@@ -1,43 +1,34 @@
-<!-- ================= BANNER ================= -->
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=230&section=header&text=Biswojit%20Sahoo&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full-Stack%20Developer%20|%20MERN%20Stack%20Enthusiast&descAlignY=60" 
-    alt="Biswojit Sahoo Banner" 
-    width="100%"
-  />
-</p>
-
 <!-- ================= HEADER ================= -->
 <h1 align="center">
   Hi 👋, I'm <span style="color:#6C63FF;">Biswojit Sahoo</span>
 </h1>
 
 <h3 align="center">
-  Aspiring Full-Stack Developer | MERN Stack Enthusiast
+   Aspiring Full-Stack Developer | MERN Stack Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=700&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;MERN+Stack+Learner;Frontend-Focused+Engineer;Building+Modern+Web+Apps;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=700&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;MERN+Stack+Learner;Frontend+Focused+Engineer;Open+Source+Contributor;Building+Modern+Web+Apps" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Biswojit143&label=Profile%20Views&color=6C63FF&style=flat-square" />
+  <img src="[https://komarev.com/ghpvc/?username=Biswojit143&label=Profile%20Views&color=6C63FF&style=flat-square]" />
 </p>
 
 ---
 
 <!-- ================= ABOUT ================= -->
-## 👨‍💻 About Me
+##  About Me
 
-I’m a **passionate Full-Stack Web Developer** focused on building **modern, responsive, and high-performance web applications**.
+ Passionate **Full-Stack Web Developer** focused on building **modern, responsive, and high-performance web applications**.
 
-- 🔭 Currently working on **real-world full-stack projects**
-- 🌱 Learning **MERN Stack & Advanced Frontend Architecture**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Git**
-- 🎯 Goal: Become a **Professional Full-Stack Engineer**
-- 🎨 Fun fact: I love cloning **Apple & Netflix-style UIs**
+- Currently working on **real-world responsive web projects**
+- Learning **MERN Stack** & **Advanced Frontend Architecture**
+- Ask me about **HTML, CSS, JavaScript, React, Git**
+- Goal: Become a **Professional Full-Stack Engineer**
+- Fun fact: I love cloning **Apple & Netflix-style UIs**
 
-📧 **Email:** `biswojitsahoo2003@gmail.com`
+ **Email:** `biswojitsahoo2003@gmail.com`
 
 ---
 
@@ -51,14 +42,13 @@ I’m a **passionate Full-Stack Web Developer** focused on building **modern, re
 ---
 
 <!-- ================= FEATURED SKILLS ================= -->
-## 💡 What I Do Best
+##  What I Do Best
 
 ✅ Responsive Web Design  
 ✅ Modern UI/UX Development  
 ✅ MERN Stack Applications  
 ✅ REST APIs & Backend Logic  
-✅ Authentication & Authorization  
-✅ LocalStorage & State Management  
+✅ LocalStorage & Auth Flows  
 ✅ Pixel-Perfect Website Clones  
 
 ---
@@ -67,12 +57,13 @@ I’m a **passionate Full-Stack Web Developer** focused on building **modern, re
 ## 📊 GitHub Statistics
 
 <p align="center">
+   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Biswojit143&show_icons=true&theme=radical&border_radius=10" height="165"/> -->
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Biswojit143&theme=radical&border_radius=10" />
 </p>
 
-<p align="center">
+ <p align="center">
   <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Biswojit143&theme=react-dark&hide_border=true" />
-</p>
+</p> 
 
 ---
 
@@ -92,11 +83,11 @@ I’m a **passionate Full-Stack Web Developer** focused on building **modern, re
   <a href="https://www.linkedin.com/in/biswojit-sahoo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-
+  
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" />
   </a>
-
+  
   <a href="mailto:biswojitsahoo42@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
@@ -112,3 +103,4 @@ I’m a **passionate Full-Stack Web Developer** focused on building **modern, re
 <p align="center">
   ⭐ Don’t forget to star my repositories if you like my work!
 </p>
+add a banner in the top
