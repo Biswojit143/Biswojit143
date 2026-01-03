@@ -53,6 +53,52 @@
 
 ---
 
+<!-- ================= PROJECTS ================= -->
+## 🚀 Featured Projects
+
+### ✈️ Flight Booking Management System (MERN Stack)
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js, Tailwind CSS  
+
+- User authentication (Login / Register)  
+- Flight search with filters (date, destination, class)  
+- Seat class selection (Economy / Business)  
+- Booking management and user dashboard  
+- Responsive UI with smooth interactions  
+
+🔗 **Status:** Completed  
+🔗 **Type:** Full-Stack MERN Application  
+
+---
+
+### 📝 Online Quiz Management System (MERN Stack)
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js  
+
+- User authentication system  
+- Admin panel to create & manage quizzes  
+- Timed quizzes with multiple-choice questions  
+- Automatic score calculation & result storage  
+- Secure backend APIs and database integration  
+
+🔗 **Status:** Under Process 
+🔗 **Type:** Full-Stack MERN Application  
+
+---
+
+### 🍎 Apple Clone Website
+**Tech Stack:** HTML, CSS, JavaScript  
+
+- Pixel-perfect Apple-inspired UI  
+- Fully responsive design (mobile, tablet, desktop)  
+- Interactive navbar and product sections  
+- Smooth animations and modern layout  
+- Clean, professional frontend structure  
+
+🔗 **Status:** Completed  
+🔗 **Type:** Frontend UI Clone  
+
+---
+
+
 <!-- ================= GITHUB STATS ================= -->
 ## 📊 GitHub Statistics
 
