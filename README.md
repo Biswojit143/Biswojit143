@@ -22,11 +22,11 @@
 
 🚀 Passionate **Full-Stack Web Developer** focused on building **modern, responsive, and high-performance web applications**.
 
-- 🔭 Currently working on **real-world responsive web projects**
-- 🌱 Learning **MERN Stack** & **Advanced Frontend Architecture**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Git**
-- 🎯 Goal: Become a **Professional Full-Stack Engineer**
-- ⚡ Fun fact: I love cloning **Apple & Netflix-style UIs**
+- Currently working on **real-world responsive web projects**
+- Learning **MERN Stack** & **Advanced Frontend Architecture**
+- Ask me about **HTML, CSS, JavaScript, React, Git**
+- Goal: Become a **Professional Full-Stack Engineer**
+- Fun fact: I love cloning **Apple & Netflix-style UIs**
 
 📫 **Email:** `biswojitsahoo2003@gmail.com`
 
