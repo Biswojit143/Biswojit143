@@ -44,12 +44,12 @@
 <!-- ================= FEATURED SKILLS ================= -->
 ##  What I Do Best
 
-✅ Responsive Web Design  
-✅ Modern UI/UX Development  
-✅ MERN Stack Applications  
-✅ REST APIs & Backend Logic  
-✅ LocalStorage & Auth Flows  
-✅ Pixel-Perfect Website Clones  
+- Modern UI/UX Development
+- Responsive Web Design
+- MERN Stack Applications
+- REST APIs & Backend Logic
+- LocalStorage & Auth Flows
+- Pixel-Perfect Website Clones  
 
 ---
 
